@@ -1,0 +1,10 @@
+Pillow
+opencv-python
+python-dotenv
+mysqlclient
+numpy
+fastapi
+python-multipart
+uvicorn
+torch
+torchvision
